@@ -1,4 +1,4 @@
-# Flexblog - Origamid
+# Flexblog
 
 Projeto do curso de CSS FlexBox da Origamid, utilizando apenas as propriedades do Flexbox.
 
